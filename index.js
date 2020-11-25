@@ -66,7 +66,7 @@ function init() {
       },
     ])
     .then(function (answers) {
-      writeToFile("README2.md", generateMarkdown(answers));
+      writeToFile("exampleReadMe.md", generateMarkdown(answers));
       console.log(answers);
     });
 }
