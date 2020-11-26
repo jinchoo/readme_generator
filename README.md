@@ -25,3 +25,5 @@
     *  Right click the file index.js to "Open in integrated terminal."
     *  Node terminal
     *  Right click the README.md to "Open Preview".
+
+![](readme_generator.gif)

@@ -1,7 +1,7 @@
 
 # readme generator
   
-to generate readme file;
+how to generate README.md;
   
 ## Installation
   
